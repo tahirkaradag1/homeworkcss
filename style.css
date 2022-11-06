@@ -1,0 +1,47 @@
+
+img{
+    width: 400px;
+    height: 200px;
+}
+h2{
+    color:#fffbfb ;
+    font-family: 'Poor Story', cursive;
+
+}
+a{
+    color: rgb(135, 167, 182);
+     text-decoration: none ;
+    font-size: x-large;
+}
+
+body{
+    background-color: rgb(34, 87, 69);
+    color:#fffbfb;
+}
+h3{
+    font-size: 1.5em;
+}
+ul{
+    display: table;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 2em;
+}
+h1{
+    text-align: center;
+    color: rgb(135, 167, 182); font-size: 4em; ;
+    font-size: 3em;
+}
+li{
+    list-style-position: inside;
+    text-align: center; 
+    color:#fffbfb;
+    
+    
+}
+strong p{
+   text-align : center;
+}
